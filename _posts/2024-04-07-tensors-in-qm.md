@@ -15,7 +15,7 @@ We know from Quantum Mechanics that an electron or any other particle can be rep
 
 $$ \overrightarrow{\boldsymbol{v}} = P(\overrightarrow{\boldsymbol{v_1}})\overrightarrow{\boldsymbol{v_1}} + P(\overrightarrow{\boldsymbol{v_2}})\overrightarrow{\boldsymbol{v_2}} + P(\overrightarrow{\boldsymbol{v_3}})\overrightarrow{\boldsymbol{v_3}} + \ ...$$
 
-This is all the details we need to begin our talk about tensors!
+This is all the details we need to begin our talk about **tensors**!
 
 ---
 
