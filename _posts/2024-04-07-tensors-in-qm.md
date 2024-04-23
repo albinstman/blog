@@ -5,9 +5,7 @@ date:   2024-04-07 00:39:55 +0200
 categories: jekyll update
 ---
 
-## Why tensors show up in Quantum Mechanics
-
-# This blog post explores why tensors are so prevalent in quantum mechanics.
+# This blog post explores why tensors are so prevalent in quantum mechanics
 
 Before we can begin and talk about **tensors** in Quantum Mechanics we need to start with a refresher on how we can represent the state of a particle.  
 
