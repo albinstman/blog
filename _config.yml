@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 exclude: [vendor]
+
+google_analytics: G-L2VYR3VNY6
