@@ -69,3 +69,7 @@ We can now turn to the definition of a **tensor**. A **tensor** is an element of
 Just by combining two independent states, <em>spin</em> and <em>color</em> of a particle, in a way that probabilities are calculated properly, we arrive that the new state must be a **tensor** product of the other two states. 
 
 How exciting!
+
+>For state spaces with a continuum of values such as the postition of a partice we have an infinite number of possible states instead of a finite number. The process of combining infinite dimensional state spaces is the same as in the discrete case using the tensor product. However, when taking the tensor product of infinite spaces it may (suprisingly) introduce holes that break the continuum, similair to the rational numbers. So when working with infinite spaces one needs to consider the completion of the tensor product.
+
+For more information see [Tensor product of Hilbert Spaces](https://en.wikipedia.org/wiki/Tensor_product_of_Hilbert_spaces).
